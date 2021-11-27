@@ -1,0 +1,1482 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="RpArealformål" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:description>koder for arealformål&#13;
+Formålet må angis nærmere (pbl. § 12-5)</gml:description>
+  <gml:name>RpArealformål</gml:name>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3256">
+      <gml:description>Bebyggelse og anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1001</gml:identifier>
+      <gml:name>Bebyggelse og anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3257">
+      <gml:description>Boligbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1110</gml:identifier>
+      <gml:name>Boligbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3258">
+      <gml:description>Boligbebyggelse - frittliggende småhusbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1111</gml:identifier>
+      <gml:name>Boligbebyggelse - frittliggende småhusbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3259">
+      <gml:description>Boligbebyggelse - konsentrert småhusbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1112</gml:identifier>
+      <gml:name>Boligbebyggelse - konsentrert småhusbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3260">
+      <gml:description>Boligbebyggelse - blokkbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1113</gml:identifier>
+      <gml:name>Boligbebyggelse - blokkbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3261">
+      <gml:description>Garasjeanlegg for bolig-/fritidsbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1119</gml:identifier>
+      <gml:name>Garasjeanlegg for bolig-/fritidsbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3295">
+      <gml:description>Fritidsbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1120</gml:identifier>
+      <gml:name>Fritidsbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3296">
+      <gml:description>Fritidsbebyggelse - frittliggende</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1121</gml:identifier>
+      <gml:name>Fritidsbebyggelse - frittliggende</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3297">
+      <gml:description>Fritidsbebyggelse - konsentrert</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1122</gml:identifier>
+      <gml:name>Fritidsbebyggelse - konsentrert</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3298">
+      <gml:description>Fritidsbebyggelse - blokk</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1123</gml:identifier>
+      <gml:name>Fritidsbebyggelse - blokk</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3299">
+      <gml:description>Kolonihage</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1124</gml:identifier>
+      <gml:name>Kolonihage</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3300">
+      <gml:description>Sentrumsformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1130</gml:identifier>
+      <gml:name>Sentrumsformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3301">
+      <gml:description>Kjøpesenter</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1140</gml:identifier>
+      <gml:name>Kjøpesenter</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3302">
+      <gml:description>Forretninger</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1150</gml:identifier>
+      <gml:name>Forretninger</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3303">
+      <gml:description>Offentlig eller privat tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1160</gml:identifier>
+      <gml:name>Offentlig eller privat tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3304">
+      <gml:description>Barnehage</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1161</gml:identifier>
+      <gml:name>Barnehage</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3305">
+      <gml:description>Undervisning</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1162</gml:identifier>
+      <gml:name>Undervisning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3306">
+      <gml:description>Forsamlingslokale for religionsutøvelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1164</gml:identifier>
+      <gml:name>Forsamlingslokale for religionsutøvelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3307">
+      <gml:description>Administrasjon</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1166</gml:identifier>
+      <gml:name>Administrasjon</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3308">
+      <gml:description>Kulturinstitusjon</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1167</gml:identifier>
+      <gml:name>Kulturinstitusjon</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3309">
+      <gml:description>Helse-/omsorgsinstitusjon</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1168</gml:identifier>
+      <gml:name>Helse-/omsorgsinstitusjon</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3310">
+      <gml:description>Annen offentlig eller privat tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1169</gml:identifier>
+      <gml:name>Annen offentlig eller privat tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3311">
+      <gml:description>Fritids- og turistformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1170</gml:identifier>
+      <gml:name>Fritids- og turistformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3312">
+      <gml:description>Utleiehytter</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1171</gml:identifier>
+      <gml:name>Utleiehytter</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3313">
+      <gml:description>Fornøyelsespark eller temapark</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1172</gml:identifier>
+      <gml:name>Fornøyelsespark eller temapark</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3314">
+      <gml:description>Campingplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1173</gml:identifier>
+      <gml:name>Campingplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3315">
+      <gml:description>Leirplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1174</gml:identifier>
+      <gml:name>Leirplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3316">
+      <gml:description>Råstoffutvinning</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1200</gml:identifier>
+      <gml:name>Råstoffutvinning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3317">
+      <gml:description>Steinbrudd og masseuttak</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1201</gml:identifier>
+      <gml:name>Steinbrudd og masseuttak</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3318">
+      <gml:description>Næringsbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1300</gml:identifier>
+      <gml:name>Næringsbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3319">
+      <gml:description>Kontor</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1310</gml:identifier>
+      <gml:name>Kontor</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3320">
+      <gml:description>Hotell/overnatting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1320</gml:identifier>
+      <gml:name>Hotell/overnatting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3321">
+      <gml:description>Bevertning</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1330</gml:identifier>
+      <gml:name>Bevertning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3322">
+      <gml:description>Industri</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1340</gml:identifier>
+      <gml:name>Industri</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3323">
+      <gml:description>Lager</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1350</gml:identifier>
+      <gml:name>Lager</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3324">
+      <gml:description>Bensinstasjon/vegserviceanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1360</gml:identifier>
+      <gml:name>Bensinstasjon/vegserviceanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3325">
+      <gml:description>Annen næring</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1390</gml:identifier>
+      <gml:name>Annen næring</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3326">
+      <gml:description>Idrettsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1400</gml:identifier>
+      <gml:name>Idrettsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3327">
+      <gml:description>Skianlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1410</gml:identifier>
+      <gml:name>Skianlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3328">
+      <gml:description>Skiløypetrasé</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1420</gml:identifier>
+      <gml:name>Skiløypetrasé</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3329">
+      <gml:description>Idrettsstadion</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1430</gml:identifier>
+      <gml:name>Idrettsstadion</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3330">
+      <gml:description>Nærmiljøanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1440</gml:identifier>
+      <gml:name>Nærmiljøanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3331">
+      <gml:description>Golfbane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1450</gml:identifier>
+      <gml:name>Golfbane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3332">
+      <gml:description>Motorsportanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1460</gml:identifier>
+      <gml:name>Motorsportanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3333">
+      <gml:description>Skytebane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1470</gml:identifier>
+      <gml:name>Skytebane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3334">
+      <gml:description>Andre idrettsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1490</gml:identifier>
+      <gml:name>Andre idrettsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3335">
+      <gml:description>Andre typer bebyggelse og anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1500</gml:identifier>
+      <gml:name>Andre typer bebyggelse og anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3336">
+      <gml:description>Godsterminal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1501</gml:identifier>
+      <gml:name>Godsterminal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3337">
+      <gml:description>Godslager</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1502</gml:identifier>
+      <gml:name>Godslager</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3338">
+      <gml:description>Energianlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1510</gml:identifier>
+      <gml:name>Energianlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3339">
+      <gml:description>Fjernvarmeanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1520</gml:identifier>
+      <gml:name>Fjernvarmeanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3340">
+      <gml:description>Vindkraftanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1530</gml:identifier>
+      <gml:name>Vindkraftanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3341">
+      <gml:description>Vann- og avløpanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1540</gml:identifier>
+      <gml:name>Vann- og avløpanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3342">
+      <gml:description>Vannforsyningsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1541</gml:identifier>
+      <gml:name>Vannforsyningsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3343">
+      <gml:description>Avløpsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1542</gml:identifier>
+      <gml:name>Avløpsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3344">
+      <gml:description>Renovasjonsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1550</gml:identifier>
+      <gml:name>Renovasjonsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3345">
+      <gml:description>Øvrige kommunaltekniske anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1560</gml:identifier>
+      <gml:name>Øvrige kommunaltekniske anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3346">
+      <gml:description>Telekommunikasjonsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1570</gml:identifier>
+      <gml:name>Telekommunikasjonsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3347">
+      <gml:description>Småbåtanlegg i sjø og vassdrag (NB! Ny 1. januar 2011 som erstatter tidligere 6730)</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1587</gml:identifier>
+      <gml:name>Småbåtanlegg i sjø og vassdrag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3348">
+      <gml:description>Småbåtanlegg i sjø og vassdrag med tilhørende strandsone (NB! Ny 1. januar 2011 som erstatter tidligere 6740)</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1588</gml:identifier>
+      <gml:name>Småbåtanlegg i sjø og vassdrag med tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3349">
+      <gml:description>Uthus/naust/badehus (NB! Ny  1. januar 2011 som erstatter tidligere 6750)</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1589</gml:identifier>
+      <gml:name>Uthus/naust/badehus</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3350">
+      <gml:description>Annen særskilt angitt bebyggelse og anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1590</gml:identifier>
+      <gml:name>Annen særskilt angitt bebyggelse og anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3351">
+      <gml:description>Uteoppholdsareal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1600</gml:identifier>
+      <gml:name>Uteoppholdsareal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3352">
+      <gml:description>Lekeplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1610</gml:identifier>
+      <gml:name>Lekeplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3353">
+      <gml:description>Gårdsplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1620</gml:identifier>
+      <gml:name>Gårdsplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3354">
+      <gml:description>Parsellhage</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1630</gml:identifier>
+      <gml:name>Parsellhage</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3355">
+      <gml:description>Annet uteoppholdsareal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1690</gml:identifier>
+      <gml:name>Annet uteoppholdsareal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3356">
+      <gml:description>Grav-og urnelund</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1700</gml:identifier>
+      <gml:name>Grav-og urnelund</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3357">
+      <gml:description>Krematorium</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1710</gml:identifier>
+      <gml:name>Krematorium</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3358">
+      <gml:description>Nødvendige bygg og anlegg for grav- og urnelund</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1730</gml:identifier>
+      <gml:name>Nødvendige bygg og anlegg for grav- og urnelund</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3359">
+      <gml:description>Kombinert bebyggelse og anleggsformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1800</gml:identifier>
+      <gml:name>Kombinert bebyggelse og anleggsformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3360">
+      <gml:description>Bolig/forretning</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1801</gml:identifier>
+      <gml:name>Bolig/forretning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3361">
+      <gml:description>Bolig/forretning/kontor</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1802</gml:identifier>
+      <gml:name>Bolig/forretning/kontor</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3362">
+      <gml:description>Bolig/tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1803</gml:identifier>
+      <gml:name>Bolig/tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3363">
+      <gml:description>Bolig/kontor</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1804</gml:identifier>
+      <gml:name>Bolig/kontor</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3364">
+      <gml:description>Forretning/kontor</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1810</gml:identifier>
+      <gml:name>Forretning/kontor</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3365">
+      <gml:description>Forretning/kontor/industri</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1811</gml:identifier>
+      <gml:name>Forretning/kontor/industri</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3366">
+      <gml:description>Forretning/industri</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1812</gml:identifier>
+      <gml:name>Forretning/industri</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3367">
+      <gml:description>Forretning/kontor/tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1813</gml:identifier>
+      <gml:name>Forretning/kontor/tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3368">
+      <gml:description>Forretning/tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1814</gml:identifier>
+      <gml:name>Forretning/tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3369">
+      <gml:description>Næring/tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1824</gml:identifier>
+      <gml:name>Næring/tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3370">
+      <gml:description>Kontor/lager</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1825</gml:identifier>
+      <gml:name>Kontor/lager</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3371">
+      <gml:description>Industri/lager</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1826</gml:identifier>
+      <gml:name>Industri/lager</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3372">
+      <gml:description>Kontor/industri</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1830</gml:identifier>
+      <gml:name>Kontor/industri</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3373">
+      <gml:description>Kontor/tjenesteyting</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1831</gml:identifier>
+      <gml:name>Kontor/tjenesteyting</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3374">
+      <gml:description>Angitt bebyggelse og anleggsformål kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1900</gml:identifier>
+      <gml:name>Angitt bebyggelse og anleggsformål kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3375">
+      <gml:description>Samferdselsanlegg og teknisk infrastruktur (arealer)</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2001</gml:identifier>
+      <gml:name>Samferdselsanlegg og teknisk infrastruktur (arealer)</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3376">
+      <gml:description>Veg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2010</gml:identifier>
+      <gml:name>Veg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3377">
+      <gml:description>Kjøreveg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2011</gml:identifier>
+      <gml:name>Kjøreveg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3378">
+      <gml:description>Fortau</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2012</gml:identifier>
+      <gml:name>Fortau</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3379">
+      <gml:description>Torg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2013</gml:identifier>
+      <gml:name>Torg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3380">
+      <gml:description>Gatetun</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2014</gml:identifier>
+      <gml:name>Gatetun</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3381">
+      <gml:description>Gang-/sykkelveg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2015</gml:identifier>
+      <gml:name>Gang-/sykkelveg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3382">
+      <gml:description>Gangveg/gangareal/gågate</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2016</gml:identifier>
+      <gml:name>Gangveg/gangareal/gågate</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3383">
+      <gml:description>Sykkelanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2017</gml:identifier>
+      <gml:name>Sykkelanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3384">
+      <gml:description>Annen veggrunn - tekniske anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2018</gml:identifier>
+      <gml:name>Annen veggrunn - tekniske anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3385">
+      <gml:description>Annen veggrunn - grøntareal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2019</gml:identifier>
+      <gml:name>Annen veggrunn - grøntareal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3386">
+      <gml:description>Bane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2020</gml:identifier>
+      <gml:name>Bane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3387">
+      <gml:description>Trasé for jernbane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2021</gml:identifier>
+      <gml:name>Trasé for jernbane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3388">
+      <gml:description>Trasé for sporveg/forstadsbane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2022</gml:identifier>
+      <gml:name>Trasé for sporveg/forstadsbane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3389">
+      <gml:description>Trasé for taubane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2023</gml:identifier>
+      <gml:name>Trasé for taubane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3390">
+      <gml:description>Stasjons-/terminalbygg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2024</gml:identifier>
+      <gml:name>Stasjons-/terminalbygg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3391">
+      <gml:description>Holdeplass/plattform</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2025</gml:identifier>
+      <gml:name>Holdeplass/plattform</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3392">
+      <gml:description>Leskur/plattformtak</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2026</gml:identifier>
+      <gml:name>Leskur/plattformtak</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3393">
+      <gml:description>Tekniske bygg/konstruksjoner</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2027</gml:identifier>
+      <gml:name>Tekniske bygg/konstruksjoner</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3394">
+      <gml:description>Annen banegrunn - tekniske anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2028</gml:identifier>
+      <gml:name>Annen banegrunn - tekniske anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3395">
+      <gml:description>Annen banegrunn - grøntareal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2029</gml:identifier>
+      <gml:name>Annen banegrunn - grøntareal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3396">
+      <gml:description>Lufthavn</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2030</gml:identifier>
+      <gml:name>Lufthavn generelt</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3397">
+      <gml:description>Lufthavn - landings-/taxebane</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2031</gml:identifier>
+      <gml:name>Lufthavn - landings-/taxebane</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3398">
+      <gml:description>Lufthavn - terminalbygg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2032</gml:identifier>
+      <gml:name>Lufthavn - terminalbygg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3399">
+      <gml:description>Lufthavn - hangarer/administrasjonsbygg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2033</gml:identifier>
+      <gml:name>Lufthavn - hangarer/administrasjonsbygg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3400">
+      <gml:description>Landingsplass for helikopter o.a.</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2034</gml:identifier>
+      <gml:name>Landingsplass for helikopter o.a.</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3401">
+      <gml:description>Havn</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2040</gml:identifier>
+      <gml:name>Havn</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3402">
+      <gml:description>Kai</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2041</gml:identifier>
+      <gml:name>Kai</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3403">
+      <gml:description>Havneterminaler</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2042</gml:identifier>
+      <gml:name>Havneterminaler</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3404">
+      <gml:description>Havnelager</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2043</gml:identifier>
+      <gml:name>Havnelager</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3405">
+      <gml:description>Molo</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2044</gml:identifier>
+      <gml:name>Molo</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3406">
+      <gml:description>Navigasjonsinstallasjon</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2045</gml:identifier>
+      <gml:name>Navigasjonsinstallasjon</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3407">
+      <gml:description>Hovednett for sykkel</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2050</gml:identifier>
+      <gml:name>Hovednett for sykkel</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3408">
+      <gml:description>Kollektivnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2060</gml:identifier>
+      <gml:name>Kollektivnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3409">
+      <gml:description>Trase for nærmere angitt kollektivtransport</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2061</gml:identifier>
+      <gml:name>Trase for nærmere angitt kollektivtransport</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3410">
+      <gml:description>Kollektivknutepunkt</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2070</gml:identifier>
+      <gml:name>Kollektivknutepunkt</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3411">
+      <gml:description>Kollektivanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2071</gml:identifier>
+      <gml:name>Kollektivanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3412">
+      <gml:description>Kollektivterminal</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2072</gml:identifier>
+      <gml:name>Kollektivterminal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3413">
+      <gml:description>Kollektivholdeplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2073</gml:identifier>
+      <gml:name>Kollektivholdeplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3414">
+      <gml:description>Pendler-/innfartsparkering</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2074</gml:identifier>
+      <gml:name>Pendler-/innfartsparkering</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3415">
+      <gml:description>Parkering</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2080</gml:identifier>
+      <gml:name>Parkering</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3416">
+      <gml:description>Rasteplass</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2081</gml:identifier>
+      <gml:name>Rasteplass</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3417">
+      <gml:description>Parkeringsplasser</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2082</gml:identifier>
+      <gml:name>Parkeringsplasser</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3418">
+      <gml:description>Parkeringshus/-anlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2083</gml:identifier>
+      <gml:name>Parkeringshus/-anlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3419">
+      <gml:description>Teknisk infrastruktur</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2101</gml:identifier>
+      <gml:name>Teknisk infrastruktur</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3420">
+      <gml:description>Energinett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2110</gml:identifier>
+      <gml:name>Energinett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3421">
+      <gml:description>Fjernvarmenett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2120</gml:identifier>
+      <gml:name>Fjernvarmenett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3422">
+      <gml:description>Vann- og avløpsnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2140</gml:identifier>
+      <gml:name>Vann- og avløpsnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3423">
+      <gml:description>Vannforsyningsnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2141</gml:identifier>
+      <gml:name>Vannforsyningsnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3424">
+      <gml:description>Avløpsnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2142</gml:identifier>
+      <gml:name>Avløpsnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3425">
+      <gml:description>Overvannsnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2143</gml:identifier>
+      <gml:name>Overvannsnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3426">
+      <gml:description>Avfallssug</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2150</gml:identifier>
+      <gml:name>Avfallssug</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3427">
+      <gml:description>Telekommunikasjonsnett</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2160</gml:identifier>
+      <gml:name>Telekommunikasjonsnett</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3428">
+      <gml:description>Sikringsanlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2170</gml:identifier>
+      <gml:name>Sikringsanlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3429">
+      <gml:description>Andre tekniske infrastrukturtraseer</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2180</gml:identifier>
+      <gml:name>Andre tekniske infrastrukturtraseer</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3430">
+      <gml:description>Kombinerte tekniske infrastrukturtraseer</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2190</gml:identifier>
+      <gml:name>Kombinerte tekniske infrastrukturtraseer</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3431">
+      <gml:description>Kombinerte formål for samferdselsanlegg og/eller teknisk infrastrukturtraseer</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2800</gml:identifier>
+      <gml:name>Kombinerte formål for samferdselsanlegg og/eller teknisk infrastrukturtraseer</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3432">
+      <gml:description>Angitte samferdselsanlegg og/eller teknisk infrastrukturtraseer kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">2900</gml:identifier>
+      <gml:name>Angitte samferdselsanlegg og/eller teknisk infrastrukturtraseer kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3433">
+      <gml:description>Blå/grønnstruktur</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3002</gml:identifier>
+      <gml:name>Blå/grønnstruktur</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3434">
+      <gml:description>Naturområde - grønnstruktur</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3020</gml:identifier>
+      <gml:name>Naturområde - grønnstruktur</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3435">
+      <gml:description>Turdrag</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3030</gml:identifier>
+      <gml:name>Turdrag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3436">
+      <gml:description>Turveg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3031</gml:identifier>
+      <gml:name>Turveg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3437">
+      <gml:description>Friområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3040</gml:identifier>
+      <gml:name>Friområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3438">
+      <gml:description>Badeplass/-område</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3041</gml:identifier>
+      <gml:name>Badeplass/-område</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3439">
+      <gml:description>Park</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3050</gml:identifier>
+      <gml:name>Park</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3440">
+      <gml:description>Vegetasjonsskjerm</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3060</gml:identifier>
+      <gml:name>Vegetasjonsskjerm</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3441">
+      <gml:description>Vannspeil</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3061</gml:identifier>
+      <gml:name>Vannspeil</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3442">
+      <gml:description>Overvannstiltak</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3100</gml:identifier>
+      <gml:name>Overvannstiltak</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3443">
+      <gml:description>Infiltrasjon/fordrøyning/avledning</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3110</gml:identifier>
+      <gml:name>Infiltrasjon/fordrøyning/avledning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3444">
+      <gml:description>Kombinerte grøntstrukturformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3800</gml:identifier>
+      <gml:name>Kombinerte grøntstrukturformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3445">
+      <gml:description>Angitt grøntstruktur kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">3900</gml:identifier>
+      <gml:name>Angitt grøntstruktur kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3446">
+      <gml:description>Forsvaret</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4001</gml:identifier>
+      <gml:name>Forsvaret</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3447">
+      <gml:description>Ulike typer militære formål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4010</gml:identifier>
+      <gml:name>Ulike typer militære formål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3448">
+      <gml:description>Skytefelt/øvingsområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4020</gml:identifier>
+      <gml:name>Skytefelt/øvingsområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3449">
+      <gml:description>Forlegning/leir</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4030</gml:identifier>
+      <gml:name>Forlegning/leir</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3450">
+      <gml:description>Kombinerte militærformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4800</gml:identifier>
+      <gml:name>Kombinerte militærformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3451">
+      <gml:description>Angitt militært formål kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">4900</gml:identifier>
+      <gml:name>Angitt militært formål kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3452">
+      <gml:description>LNFR areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag (Lagt inn på nytt etter justering av forskrift 1. januar 2011)</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5100</gml:identifier>
+      <gml:name>LNFR areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3453">
+      <gml:description>Landbruksformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5110</gml:identifier>
+      <gml:name>Landbruksformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3454">
+      <gml:description>Jordbruk</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5111</gml:identifier>
+      <gml:name>Jordbruk</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3455">
+      <gml:description>Skogbruk</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5112</gml:identifier>
+      <gml:name>Skogbruk</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3456">
+      <gml:description>Seterområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5113</gml:identifier>
+      <gml:name>Seterområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3457">
+      <gml:description>Gartneri</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5114</gml:identifier>
+      <gml:name>Gartneri</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3458">
+      <gml:description>Pelsdyranlegg</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5115</gml:identifier>
+      <gml:name>Pelsdyranlegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3459">
+      <gml:description>Naturformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5120</gml:identifier>
+      <gml:name>Naturformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3460">
+      <gml:description>Friluftsformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5130</gml:identifier>
+      <gml:name>Friluftsformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3461">
+      <gml:description>Reindriftformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5140</gml:identifier>
+      <gml:name>Reindriftformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3462">
+      <gml:description>LNFR areal for spredt bolig- fritids- eller næringsbebyggelse, mv</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5200</gml:identifier>
+      <gml:name>LNFR areal for spredt bolig- fritids- eller næringsbebyggelse, mv</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3463">
+      <gml:description>Spredt boligbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5210</gml:identifier>
+      <gml:name>Spredt boligbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3464">
+      <gml:description>Spredt  fritidsbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5220</gml:identifier>
+      <gml:name>Spredt  fritidsbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3465">
+      <gml:description>Spredt  næringsbebyggelse</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5230</gml:identifier>
+      <gml:name>Spredt  næringsbebyggelse</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3466">
+      <gml:description>Naturvern</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5300</gml:identifier>
+      <gml:name>Naturvern</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3467">
+      <gml:description>Jordvern</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5400</gml:identifier>
+      <gml:name>Jordvern</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3468">
+      <gml:description>Særlige landskapshensyn</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5500</gml:identifier>
+      <gml:name>Særlige landskapshensyn</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3469">
+      <gml:description>Vern av kulturmiljø eller kulturminne</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5600</gml:identifier>
+      <gml:name>Vern av kulturmiljø eller kulturminne</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3470">
+      <gml:description>LNFR formål kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">5900</gml:identifier>
+      <gml:name>LNFR formål kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3471">
+      <gml:description>Bruk og vern av sjø og vassdrag med tilhørende strandsone</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6001</gml:identifier>
+      <gml:name>Bruk og vern av sjø og vassdrag med tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3472">
+      <gml:description>Ferdsel</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6100</gml:identifier>
+      <gml:name>Ferdsel</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3473">
+      <gml:description>Ankringsområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6110</gml:identifier>
+      <gml:name>Ankringsområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3474">
+      <gml:description>Opplagsområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6120</gml:identifier>
+      <gml:name>Opplagsområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3475">
+      <gml:description>Riggområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6130</gml:identifier>
+      <gml:name>Riggområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3476">
+      <gml:description>Farled</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6200</gml:identifier>
+      <gml:name>Farled</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3477">
+      <gml:description>Hoved-/biled</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6211</gml:identifier>
+      <gml:name>Hoved-/biled</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3478">
+      <gml:description>Havneområde i sjø</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6220</gml:identifier>
+      <gml:name>Havneområde i sjø</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3479">
+      <gml:description>Småbåthavn</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6230</gml:identifier>
+      <gml:name>Småbåthavn</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3480">
+      <gml:description>Bøyehavn</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6240</gml:identifier>
+      <gml:name>Bøyehavn</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3481">
+      <gml:description>Fiske</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6300</gml:identifier>
+      <gml:name>Fiske</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3482">
+      <gml:description>Fiskeområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6310</gml:identifier>
+      <gml:name>Fiskeområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3483">
+      <gml:description>Låssettingsplasser</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6320</gml:identifier>
+      <gml:name>Låssettingsplasser</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3484">
+      <gml:description>Gytefelt eller oppvekstområde for yngel</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6330</gml:identifier>
+      <gml:name>Gytefelt eller oppvekstområde for yngel</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3485">
+      <gml:description>Akvakultur</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6400</gml:identifier>
+      <gml:name>Akvakultur</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3486">
+      <gml:description>Akvakulturanlegg i sjø og vassdrag</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6410</gml:identifier>
+      <gml:name>Akvakulturanlegg i sjø og vassdrag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3487">
+      <gml:description>Akvakulturanlegg i sjø og vassdrag med tilhørende strandsone. 19. desember 2011: Tidligere navn "Akvakulturanlegg i sjø og vassdrag med tilhørende landanlegg" erstattet for å være i samsvar med pbl. § 11-7 andre ledd nr. 6, jf. Ag9-vedtak 4. november 2011</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6420</gml:identifier>
+      <gml:name>Akvakulturanlegg i sjø og vassdrag med tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3488">
+      <gml:description>Fangstbasert levendelagring</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6430</gml:identifier>
+      <gml:name>Fangstbasert levendelagring</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3489">
+      <gml:description>Drikkevann</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6500</gml:identifier>
+      <gml:name>Drikkevann</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3490">
+      <gml:description>Naturområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6600</gml:identifier>
+      <gml:name>Naturområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3491">
+      <gml:description>Naturområde i sjø og vassdrag</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6610</gml:identifier>
+      <gml:name>Naturområde i sjø og vassdrag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3492">
+      <gml:description>Naturområde i sjø og vassdrag med tilhørende strandsone</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6620</gml:identifier>
+      <gml:name>Naturområde i sjø og vassdrag med tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3493">
+      <gml:description>Friluftsområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6700</gml:identifier>
+      <gml:name>Friluftsområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3494">
+      <gml:description>Friluftsområde i sjø og vassdrag</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6710</gml:identifier>
+      <gml:name>Friluftsområde i sjø og vassdrag</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3495">
+      <gml:description>Friluftsområde i sjø og vassdrag med tilhørende strandsone</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6720</gml:identifier>
+      <gml:name>Friluftsområde i sjø og vassdrag med tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3496">
+      <gml:description>Idrett/vannsport</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6760</gml:identifier>
+      <gml:name>Idrett/vannsport</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3497">
+      <gml:description>Badeområde</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6770</gml:identifier>
+      <gml:name>Badeområde</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3498">
+      <gml:description>Kombinerte formål i sjø og vassdrag med eller uten tilhørende strandsone</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6800</gml:identifier>
+      <gml:name>Kombinerte formål i sjø og vassdrag med eller uten tilhørende strandsone</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_319_3499">
+      <gml:description>Angitt formål i sjø og vassdrag med eller uten tilhørende strandsone kombinert med andre angitte hovedformål</gml:description>
+      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">6900</gml:identifier>
+      <gml:name>Angitt formål i sjø og vassdrag med eller uten tilhørende strandsone kombinert med andre angitte hovedformål</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+</gml:Dictionary>

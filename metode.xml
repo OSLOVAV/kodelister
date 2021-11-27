@@ -1,0 +1,76 @@
+<?xml-stylesheet type='text/xsl' href='./kodelisteStyle.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="metode" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <gml:description>koder for metode i VA- prosjekter</gml:description>
+  <gml:name>metode</gml:name>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_1">
+      <gml:description>Det skal graves en grøft som ledningen skal legges i</gml:description>
+      <gml:name>graving</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_2">
+      <gml:description>en konstruksjon av stål, betong, plast, tre eller andre materialer som brukes til framføring av rør, ledninger eller andre kanaler</gml:description>
+      <gml:name>kanal</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>Det skal etableres en kulvert som ledningen skal legges i</gml:description>
+      <gml:name>kulvert</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>Ledningen skal legges ned</gml:description>
+      <gml:name>nedlegging</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>  
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>ledningen renoveres med belegg uten graving</gml:description>
+      <gml:name>no-digBelegg</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry> 
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>Det skal anlegges ny ledning ved boring uten graving</gml:description>
+      <gml:name>no-digBoring</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>   
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>ledningen renoveres med inntrekking uten graving</gml:description>
+      <gml:name>no-digInntrekking</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry> 
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>ledningen renoveres med strømpe uten graving</gml:description>
+      <gml:name>no-digStrømpe</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>   
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>ledningen renoveres med utblokking (cracking)  uten graving</gml:description>
+      <gml:name>no-digUtblokking</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>  
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>Metoden er spesiell, og du må lese konseptvalgutredning (KVU)</gml:description>
+      <gml:name>seKVU</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>  
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>ledningen legges i sjø</gml:description>
+      <gml:name>sjøledning</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>  
+  <gml:dictionaryEntry>
+    <gml:Definition gml:id="_3">
+      <gml:description>Det skal etableres en tunnel som ledningen skal legges i</gml:description>
+      <gml:name>tunnel</gml:name>
+    </gml:Definition>
+  </gml:dictionaryEntry>    
+</gml:Dictionary>

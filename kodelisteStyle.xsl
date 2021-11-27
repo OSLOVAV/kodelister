@@ -23,7 +23,7 @@
 							<u>description</u>
 						</td>
 					</tr>
-					<xsl:for-each select="//gml:Definition">
+					<xsl:for-each select="//gml:name">
 						<xsl:sort select="gml:name[count(@codeSpace)=1]" data-type="number"/>
 						<tr>
 							<td valign="top">

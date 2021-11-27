@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- (c) 2009 interactive instruments GmbH -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<xsl:output method="html"/>
 	<xsl:template match="/">
@@ -8,20 +7,20 @@
 				<title>Kodeliste '<xsl:value-of select="/gml:Dictionary/gml:id"/>'</title>
 			</head>
 			<body>
-				<h3>Codelist '<xsl:value-of select="/gml:Dictionary/gml:identifier"/>'</h3>
+				<h3>Kodeliste '<xsl:value-of select="/gml:Dictionary/gml:id"/>'</h3>
 				<xsl:if test="/gml:Dictionary/gml:description">
 					<p><xsl:value-of select="/gml:Dictionary/gml:description"/></p>
 				</xsl:if>
 				<table>
 					<tr>
 						<td>
-							<u>Value</u>
+							<u>name</u>
 						</td>
 						<td width="10">
 							<br/>
 						</td>
 						<td>
-							<u>Documentation</u>
+							<u>description</u>
 						</td>
 					</tr>
 					<xsl:for-each select="//gml:Definition">

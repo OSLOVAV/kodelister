@@ -9,9 +9,8 @@
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
     <gml:Definition gml:id="_319_3257">
-      <gml:description>Boligbebyggelse</gml:description>
-      <gml:identifier codeSpace="http://skjema.geonorge.no/SOSITEST/produktspesifikasjon/Reguleringsplanforslag/5.0/RpArealformål">1110</gml:identifier>
-      <gml:name>Boligbebyggelse</gml:name>
+      <gml:description>kanal</gml:description>
+      <gml:name>kanal</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>

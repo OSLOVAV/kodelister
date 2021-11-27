@@ -11,7 +11,7 @@
 				<xsl:if test="/gml:Dictionary/gml:description">
 					<h1><xsl:value-of select="/gml:Dictionary/gml:description"/></h1>
 				</xsl:if>
-				<table>
+				<table border="1">
 					<tr>
 						<td>
 							<u>name</u>

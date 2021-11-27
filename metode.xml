@@ -1,4 +1,4 @@
-<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="metode" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+<?xml-stylesheet type='text/xsl' href='http://skjema.dev.geonorge.no/sosi/Produktspesifikasjon/Stedsnavn/5.0/CodelistDictionary-v32.xsl'?><gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="metode" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
   <gml:description>koder for metode i VA- prosjekter</gml:description>
   <gml:name>metode</gml:name>
   <gml:dictionaryEntry>

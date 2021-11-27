@@ -5,7 +5,7 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<title>Kodeliste '<xsl:value-of select="/gml:Dictionary/gml:name"/>'</title>
+				<title>Kodeliste '<xsl:value-of select="/gml:Dictionary/gml:id"/>'</title>
 			</head>
 			<body>
 				<h3>Codelist '<xsl:value-of select="/gml:Dictionary/gml:identifier"/>'</h3>

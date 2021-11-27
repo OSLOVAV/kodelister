@@ -2,13 +2,13 @@
   <gml:description>koder for metode i VA- prosjekter</gml:description>
   <gml:name>metode</gml:name>
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_319_3256">
+    <gml:Definition gml:id="_1">
       <gml:description>Det skal graves en grøft som ledningen skal legges i</gml:description>
       <gml:name>graving</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_319_3257">
+    <gml:Definition gml:id="_2">
       <gml:description>kanal</gml:description>
       <gml:name>kanal</gml:name>
     </gml:Definition>

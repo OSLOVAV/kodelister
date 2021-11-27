@@ -9,7 +9,7 @@
 			<body>
 				<h3>Kodeliste '<xsl:value-of select="/gml:Dictionary/gml:id"/>'</h3>
 				<xsl:if test="/gml:Dictionary/gml:description">
-					<p><xsl:value-of select="/gml:Dictionary/gml:description"/></p>
+					<h1><xsl:value-of select="/gml:Dictionary/gml:description"/></h1>
 				</xsl:if>
 				<table>
 					<tr>

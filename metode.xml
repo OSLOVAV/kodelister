@@ -20,55 +20,55 @@
     </gml:Definition>
   </gml:dictionaryEntry>
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_4">
       <gml:description>Ledningen skal legges ned</gml:description>
       <gml:name>nedlegging</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>  
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_5">
       <gml:description>ledningen renoveres med belegg uten graving</gml:description>
       <gml:name>no-digBelegg</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry> 
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_6">
       <gml:description>Det skal anlegges ny ledning ved boring uten graving</gml:description>
       <gml:name>no-digBoring</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>   
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_7">
       <gml:description>ledningen renoveres med inntrekking uten graving</gml:description>
       <gml:name>no-digInntrekking</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry> 
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_8">
       <gml:description>ledningen renoveres med strømpe uten graving</gml:description>
       <gml:name>no-digStrømpe</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>   
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_9">
       <gml:description>ledningen renoveres med utblokking (cracking)  uten graving</gml:description>
       <gml:name>no-digUtblokking</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>  
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_10">
       <gml:description>Metoden er spesiell, og du må lese konseptvalgutredning (KVU)</gml:description>
       <gml:name>seKVU</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>  
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_11">
       <gml:description>ledningen legges i sjø</gml:description>
       <gml:name>sjøledning</gml:name>
     </gml:Definition>
   </gml:dictionaryEntry>  
   <gml:dictionaryEntry>
-    <gml:Definition gml:id="_3">
+    <gml:Definition gml:id="_12">
       <gml:description>Det skal etableres en tunnel som ledningen skal legges i</gml:description>
       <gml:name>tunnel</gml:name>
     </gml:Definition>
